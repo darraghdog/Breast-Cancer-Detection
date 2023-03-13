@@ -1,0 +1,11 @@
+pylibjpeg-libjpeg==1.3.1
+pydicom==2.0.0
+python-gdcm==3.0.20
+scikit-image==0.19.3
+albumentations
+opencv-python==4.5.5.64
+transformers
+boto3
+neptune-client
+pylibjpeg
+timm
