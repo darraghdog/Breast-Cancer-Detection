@@ -3,7 +3,7 @@
 This is the source code for the 4th place solution to the [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/).  
 Video overview: [link](TBD)  
 Slides : [link](TBD)  
-Submission code : [link](https://www.kaggle.com/code/darraghdog/4th-place-submission/notebook)  
+Submission code : [link](https://www.kaggle.com/code/darraghdog/4th-place-submission-cdi/notebook)  
 Our solution write up can be found [here](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391208).
   
 Sponsored by [RSNA](https://www.rsna.org/)
